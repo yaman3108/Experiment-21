@@ -126,4 +126,4 @@ int main(){
 
 
 ## Conclusion:
-This program helps us understand how different types of searching algorithms work in C++. 
+This program helps us understand how different types of searching algorithms work in C++. We have implemented the use of two different searching algorithms linear search and binary search.
